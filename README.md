@@ -1,3 +1,9 @@
+# Debugging
+
+SWA is fiddly....
+`pkill -9 func` to kill the functions process
+Also: manually build the function app (`npm run prestart`) because SWA refuses to build it :(
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
